@@ -1,1 +1,3 @@
-The C program file adds two numbers.
+The C program file sum.c adds two numbers and all prints it.
+
+The C program file diff.c prints the difference between 2 numbers.
